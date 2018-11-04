@@ -1,1 +1,5 @@
-# CodeOfConduct
+# BIYN 성평등 장치 모음
+
+- [BIYN 성평등 약속문]()
+- [BIYN 성폭력 사건처리규정]()
+
