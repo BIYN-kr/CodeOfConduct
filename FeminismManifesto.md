@@ -15,5 +15,5 @@ BIYN 활동의 주체가 숙지하고 지켜나갈 성평등 약속문을 공유
 
 약속은 깨질 수 있음을 인정함으로써 이상을 더욱 유념하며, 약속문을 모든 BIYN 활동과 행사에서 함께 실천합니다.
 
-- [BIYN 성평등 장치 전문 보기]()
-- [BIYN 성폭력 사건 처리 규정 보기]()
+- [BIYN 성폭력 사건 처리 규정 보기](https://github.com/BIYN-kr/CodeOfConduct/blob/master/CaseRules.md)
+- [BIYN 성평등 장치 전문 보기](https://docs.google.com/document/d/1_Jqn-23HC3KQefhaslzhMltHjMmZNASMk5ahCNdFxak/edit#)
