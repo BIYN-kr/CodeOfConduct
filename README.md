@@ -2,6 +2,7 @@
 
 - [BIYN 성평등 약속문(BIYN Feminism Manifesto)](https://github.com/BIYN-kr/CodeOfConduct/blob/master/FeminismManifesto.md)
 - [BIYN 성폭력 사건처리규정(BIYN Sexual Violence Case Rules)](https://github.com/BIYN-kr/CodeOfConduct/blob/master/CaseRules.md)
+- [BIYN 성평등 장치 전문](https://docs.google.com/document/d/1_Jqn-23HC3KQefhaslzhMltHjMmZNASMk5ahCNdFxak/edit#) 
 
 ## 프로젝트 과정
 
